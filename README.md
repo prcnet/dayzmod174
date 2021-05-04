@@ -21,6 +21,7 @@ Installation is relatively simple - and assumes you own Arma 2 and Arma 2 Operat
 - Double click on DayZ_Game.bat any time you want to launch DayZ Mod
 
 - Optional: For DayZTaviana.com 2.0 download the Taviana rar and extract the contents into an @Taviana folder in the same fashion the @DayZ Folder is structure in
+-   Eg: All the files in the zip should be in @Taviana\Addons\
 
 - Taviana rar https://www.dropbox.com/s/iug19ux9l7v57np/DayZ_Taviana-2.0.rar?dl=0
 
